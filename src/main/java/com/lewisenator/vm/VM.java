@@ -1,7 +1,6 @@
 package com.lewisenator.vm;
 
 import com.lewisenator.util.Joiner;
-import com.sun.javaws.exceptions.InvalidArgumentException;
 
 import java.util.Arrays;
 
